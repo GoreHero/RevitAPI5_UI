@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_L6_IdElement.dll</Assembly>
+		<AddInId>7C4CD83B-6CE1-4BDD-AB97-94ABF5373F9B</AddInId>
+		<FullClassName>RevitAPI_L6_IdElement.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>ID элемента</Text>
+	</AddIn>
+</RevitAddIns>
